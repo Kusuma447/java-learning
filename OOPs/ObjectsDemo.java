@@ -1,3 +1,8 @@
+/* objects execution flow
+   when object created default values were intialized by JVM.
+   instance variables were intialized after that.
+   then constructor were called and values were intializzed.
+ */
 class Student{
     int age=0;
     String name="null";
